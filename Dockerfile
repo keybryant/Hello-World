@@ -1,5 +1,5 @@
 FROM centos
 
-MAINTAINER keyong <87734@qq.com>
+MAINTAINER keyong <877347650@qq.com>
 
 RUN yum install tomcat
